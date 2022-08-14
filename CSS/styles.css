@@ -1,0 +1,35 @@
+body
+{
+  font-size: 20px;
+  background-color:#B2A4FF;
+  color: #FFFFFF;
+
+}
+h1 {
+  background-size: auto;
+  background-color:#FFB4B4;
+  color: white;
+}
+h3{
+  color:white;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: white;
+  width: 5%;
+}
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+table:hover{
+  background-color: gold;
+}
